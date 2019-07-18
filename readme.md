@@ -1,13 +1,9 @@
-30000 Hours
------------
+30,000 Hours
+------------
 
-In 2013 I sent around 50 emails to programmers whose work I admired asking them "Would you be willing to share the # of hours you have spent practicing programming? Back of the envelope numbers are fine!". Some of the emails bounced back, some went unanswered, but 5 people wrote back.
+In 2013 I emailed 50 programmers whose projects I studied and admired asking them "Would you be willing to share the # of hours you have spent practicing programming? Back of the envelope numbers are fine!". Some emails bounced back. Some went unanswered. But five coders wrote back.
 
-I promised people I would compile the responses and publish the results to the public domain. However, while waiting for more responses to trickle in, I slowly forgot about this project.
-
-Then, this morning (7/18/2019), I stumbled upon one of those old emails.
-
-Sorry for the delay! I know this turned out to be a tiny study, but I still think the results are interesting (and encouraging to aspiring programmers!):
+I promised I would compile the responses and publish the results to the public domain. But, while waiting for more responses to trickle in, I slowly forgot about this project, until this morning (7/18/2019), when I stumbled upon one of those old emails. Sorry for the delay! This turned out to be a tiny study, but given the great code these folks have written, I think the results are interesting (and a testament to practice!):
 
 |Name|WikipediaPage|GitHubId|Hours|YearOfEstimate|BornIn|
 |-|-|-|-|-|-|
@@ -28,7 +24,7 @@ No evidence has been found that the 10,000 hour strategy is flawed. :)
 Thank You
 ---------
 
-I can't put into words how grateful I am to the people who responded to me. At the time I was 5 years into my programming career, had passed 10,000 hours of practice, and was starting to worry that the "10,000 hour strategy" I had been following and telling other aspiring programmers to follow may have been hopeless, because I was still a pretty terrible programmer at the time (many would argue that today, 6 years later, I'm still bad, but now I can say that's just because I'm 31 hours short of 30k ;P). Then these busy coders answered my cold emails with not just a number but many encouraging words and thoughts. One of my favorite responses was from Peter Norvig, who sent me a Lisp program computing his estimate:
+I hope these data points can encourage other aspiring programmers as much as they encouraged me. I am eternally grateful to the programmers who responded. Back then I was 5 years into my programming career, I had passed 10,000 hours of practice, and was starting to worry that the "10,000 hour strategy" I had been following and telling other aspiring programmers to follow may have been in vain, because I was still a pretty bad programmer (many would argue that today, 6 years later, I'm not much better, but now I can say that's just because I only have 29,000 hours of practice). These busy coders answered my cold emails with not just a number but many encouraging words and thoughts. One of my favorite responses was from Peter Norvig, who sent me a Lisp program computing his estimate:
 
     # sum(years *  (hours/week)) * (weeks/year) 
     
