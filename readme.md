@@ -1,7 +1,7 @@
 30,000 Hours
 ------------
 
-In 2013 I emailed 50 programmers whose projects I studied and admired asking them "Would you be willing to share the # of hours you have spent practicing programming? Back of the envelope numbers are fine!". Some emails bounced back. Some went unanswered. But five coders wrote back.
+In 2013 I emailed 25 programmers whose projects I studied and admired asking them "Would you be willing to share the # of hours you have spent practicing programming? Back of the envelope numbers are fine!". Some emails bounced back. Some went unanswered. But five coders wrote back.
 
 I promised I would compile the responses and publish the results to the public domain. But, while waiting for more responses to trickle in, I slowly forgot about this project, until this morning (7/18/2019), when I stumbled upon one of those old emails. Sorry for the delay! This turned out to be a tiny study, but given the great code these folks have written, I think the results are interesting (and a testament to practice!):
 
